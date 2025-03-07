@@ -40,6 +40,7 @@ Open Task Manager (Ctrl + Shift + Esc), find keylogger.exe, and end the task.
 OR use the command:
 taskkill /IM keylogger.exe /F
 
+Also any inputs of advancements are seriously appreciated
 
 ⚠️ Windows Defender & Antivirus Detection
 🚨 Important: If you compile it to an EXE, Windows Defender may detect and remove it.
